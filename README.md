@@ -51,7 +51,38 @@ All colors passed accessibility tests against the background color, 00040A. Some
   <summary>Responsiveness</summary>
 </details>
 
+## Features
+<details>
+   <summary>Nav Bar</summary>
+  XXX
+</details>
+
+<details>
+  <summary>Home Page</summary>
+</details>
+ 
+<details>
+  <summmary>About Page</summmary>
+  xxxx
+</details>
+
+</design>
+
+<details>
+    <summary>Book Review Page</summary>
+</details>
+
+<details>
+  <summary>Log in</summary>
+</details>
+
+<details>
+  <summary>Registration</summary>
+</details>
+
 ## Agile Methodology
+
+## Database Design 
 
 ## Data Models 
 
@@ -68,3 +99,5 @@ All colors passed accessibility tests against the background color, 00040A. Some
 ## Deployment 
 
 ## AI transparency 
+
+## Credit
