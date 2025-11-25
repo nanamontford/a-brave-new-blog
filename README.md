@@ -50,3 +50,21 @@ All colors passed accessibility tests against the background color, 00040A. Some
 <details>
   <summary>Responsiveness</summary>
 </details>
+
+## Agile Methodology
+
+##Data Models 
+
+## CRUD Functionality
+
+## Forms and Validation
+
+## Reflect Login State
+
+## Security 
+
+## Validation and Testing 
+
+## Deployment 
+
+## AI transparency 
