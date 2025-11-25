@@ -5,10 +5,20 @@
 ## Table of Contents
 
 ## User Stories 
+Overall list goes here 
+<details>
+  <summary>Must haves</summary>
+  xxx 
+</details>
 
-### Must Haves 
+<details>
+  <summary>Should haves</summary>
+  XXX
+</details>
 
-### Should Have
+<details>
+  <summary>Could haves</summary>
+  XXX
+</details>
 
-### Could Have 
 
