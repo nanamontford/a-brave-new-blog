@@ -37,6 +37,7 @@
   The colors were chosen to fit with the science fiction theme with the yellow and orange being reminiscent of stars and the blue of the sky. The black background represents the emptiness of space. 
   <br>
 All colors passed accessibility tests against the background color, 00040A. Some combinations such as the orange and yellow were never paired to adhere to accessibility considerations.
+[ADD info about red not beeing accessible]
 </details>
 
 <details>
