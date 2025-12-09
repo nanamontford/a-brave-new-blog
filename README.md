@@ -106,4 +106,10 @@ All colors passed accessibility tests against the background color, 00040A. Some
 
 ## AI transparency
 
-## Credit
+## Credits
+<details>
+  <summary>Technologies Used</summary>
+ Backend: Django, Python, SQLite Database <br>
+ Frontend: HTML, CSS, JavaScript, Bootstrap <br>
+ Design: Font Awesome Icons, Google Fonts,  Type Factory, Coolers, Figma <br>
+</details>
