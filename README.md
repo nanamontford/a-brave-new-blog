@@ -113,9 +113,9 @@ All colors passed accessibility tests against the background color, 00040A. Some
 ## Credits
 <details>
   <summary>Technologies Used</summary>
- Backend: Django, Python, SQLite Database <br>
+ Backend: Django, Python, PostgreSQL Database <br>
  Frontend: HTML, CSS, JavaScript, Bootstrap <br>
- Design: Font Awesome Icons, Google Fonts,  Type Factory, Coolers, Figma <br>
+ Design: Font Awesome Icons, Google Fonts, Type Factory, Coolers, Figma <br>
 </details>
 <details>
   <summary>Resources & Documentation</summary> 
