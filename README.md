@@ -105,6 +105,10 @@ All colors passed accessibility tests against the background color, 00040A. Some
 ## Deployment
 
 ## AI transparency
+<details>
+  <summary>Statement</summary>
+  
+</details>
 
 ## Credits
 <details>
