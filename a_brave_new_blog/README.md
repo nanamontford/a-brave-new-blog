@@ -1,5 +1,7 @@
 # A Brave New Blog
 
+.
+
 ## Overview
 
 ## Table of Contents
