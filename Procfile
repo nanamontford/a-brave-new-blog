@@ -1,1 +1,1 @@
-web: gunicorn a-brave-new-blog.wsgi
+web: gunicorn --config gunicorn.conf.py a_brave_new_blog.wsgi
