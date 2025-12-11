@@ -108,5 +108,21 @@ All colors passed accessibility tests against the background color, 00040A. Some
 ## Deployment
 
 ## AI transparency
+<details>
+  <summary>Statement</summary>
+  
+</details>
 
-## Credit
+## Credits
+<details>
+  <summary>Technologies Used</summary>
+ Backend: Django, Python, PostgreSQL Database <br>
+ Frontend: HTML, CSS, JavaScript, Bootstrap <br>
+ Design: Font Awesome Icons, Google Fonts, Type Factory, Coolers, Figma <br>
+</details>
+<details>
+  <summary>Resources & Documentation</summary> 
+    Debugging: Stack Overflow, YouTube tutorials, Copilot, W3Schools, Code Institute LMS <br>
+    Technologies documentation: Bootstrap documentation, Heroku Dev Centre, Font Awesome Documentation, VS Code Documentation, Django Documentation, GitHub Community <br>
+    Testing: W3C Validators, Lighthouse, [ADD OTHER MANUAL TESTING OPTIONS HERE]<br>
+</details>
