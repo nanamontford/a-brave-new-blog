@@ -56,6 +56,20 @@ All colors passed accessibility tests against the background color, 00040A. Some
   <summary>Responsiveness</summary>
 </details>
 
+## Entity Relationship Diagram (ERD)
+<details>
+  <summary>Image</summary>
+</details>  
+<details>
+  <summary>Explaination</summary>
+  Key: <br>
+  - snowflake icon: Unique Key <br>
+  - key icon: Primary Key <br>
+  - quote icon: foreign key <br>
+  - pin icon: Index <br>
+  
+</details>
+
 ## Features
 
 <details>
