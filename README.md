@@ -121,7 +121,7 @@ All colors passed accessibility tests against the background color, 00040A. Some
 ## AI transparency
 <details>
   <summary>Statement</summary>
-  
+  Copilot, within GitHub, was used to assist with commit messages in the README. It was also used to generate pull request summaries to supplement those written by me.  
 </details>
 
 ## Credits
