@@ -58,16 +58,16 @@ All colors passed accessibility tests against the background color, 00040A. Some
 
 ## Entity Relationship Diagram (ERD)
 <details>
-  <summary>Image</summary>
-</details>  
-<details>
   <summary>Explaination</summary>
+
+ [ image ] 
   Key: <br>
   - snowflake icon: Unique Key <br>
   - key icon: Primary Key <br>
   - quote icon: foreign key <br>
   - pin icon: Index <br>
-  
+
+  The entity relationship diagram was created using DrawSQL. It depicts... 
 </details>
 
 ## Features
